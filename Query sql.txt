@@ -16,7 +16,7 @@ CREATE TABLE eproduct (ID int primary key auto_increment, name varchar(100), pri
 8. To enter the data in the table
     INSERT into eproduct (name, price, date_added) values ('Laptop', 17800.00, now());
 
-START:
+START::
 
 
 
